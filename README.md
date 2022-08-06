@@ -1,2 +1,1 @@
-# Travel-Tour-Website
-It is a web development project named-Travel and Tour website 
+It is a SignUp and Login page which will land you on home page using PHP & MYSQL. 
